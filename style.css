@@ -1,0 +1,10 @@
+.about {
+    height: 500px;
+    background-color: blue;
+
+    display: flex;
+}
+
+.aptitudes {
+    display: flex;
+}
